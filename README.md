@@ -58,10 +58,11 @@ A través del proceso de predicción, se logró estimar el número de matrícula
 # 4. Conclusiones. 
 El estudio logró modelar y analizar las tendencias de matrícula en instituciones de educación superior, comparando diferentes modelos de predicción para determinar su eficacia, se concluyó que, aunque la Regresión Lineal proporciona una aproximación inicial, el modelo Random Forest Regressor es más robusto y adecuado para este tipo de datos, ofreciendo predicciones más precisas y adaptadas a la variabilidad de las matrículas a lo largo del tiempo.
 Además, la capacidad de generar predicciones futuras con base en datos históricos demuestra el potencial del machine learning en la toma de decisiones en el sector educativo.
-5. Conflicto de intereses.
+
+# 5. Conflicto de intereses.
 No existe ningún conflicto de intereses en la realización de este trabajo.
 
-6  . Referencias.
+# 6  . Referencias.
 Pérez, M., & Rodríguez, L. (2020). Análisis predictivo en la educación superior: retos y oportunidades. Editorial Académica.
 Ramírez, J. (2019). Big Data y educación: un enfoque innovador para la toma de decisiones. Universidad Nacional de Colombia.
 Ministerio de Educación Nacional. (2021). Sistema Nacional de Información de la Educación Superior (SNIES).
